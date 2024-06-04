@@ -1,4 +1,6 @@
-Kumpulan data set online dan free dari https://www.kaggle.com/
+# Koleksi Data Set Gratis di Internet
+
+## A. Kaggle https://www.kaggle.com/
 
 1. Iris Computer Vision https://www.kaggle.com/datasets/jeffheaton/iris-computer-vision
 2. Computer Network Traffic https://www.kaggle.com/datasets/crawford/computer-network-traffic
